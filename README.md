@@ -1,3 +1,3 @@
 # cloudstackptyltd.github.io
 
-Custom web software for customers and small businesses, and public organisations, on the cloud. 
+Building custom web software for private customers and small businesses, and public organisations. Migrating customer's websites to the cloud.  
